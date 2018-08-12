@@ -21,9 +21,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 
-/**
- * Created by navneet on 23/7/16.
- */
+
 public class GetNearbyPlacesData extends AsyncTask<Object, String, String> {
 
 
